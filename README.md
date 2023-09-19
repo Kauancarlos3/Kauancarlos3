@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou o Kauan! 👋
 
 <!--
 **Kauancarlos3/Kauancarlos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
